@@ -3,5 +3,6 @@
 jenkins/jenkins:lts
 jenkins/jenkins:2.462.2
 jenkins/jenkins:2.462.3
+gitea/gitea
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
